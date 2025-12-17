@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Hellop World! I am Ntokozo Nkosi from South Africa<br><br>- 🔭 I’m working as Full-Stack Developer<br>- 📚 I'm currently learning Java and SpringBoot<br>- ⚡ In my free  time I take long walks.</p>
+<p align="left">Hello World! I am Ntokozo Nkosi from South Africa<br><br>- 🔭 I’m working as Full-Stack Developer<br>- 📚 I'm currently learning Java and SpringBoot<br>- ⚡ In my free  time I take long walks.</p>
 
 ###
 
